@@ -8,9 +8,11 @@
 
 <h3 align="center"> 
  ͙͘͡★ Repository to study TypeScript, follow my studies!
-</h3>
-
+ 
 ##
+
+<img height="35" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> <img height="35" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> 
+
 ╰┈➤ Follow me: (soon)
 
 | Studies | Activies | 
