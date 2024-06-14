@@ -17,14 +17,14 @@
 
 | Studies | Activies | 
 | ------------- | --------- | 
-| 01 | soon  
-| 02 | soon | 
-| 03  | soon | 
-| 04   | soon | 
-| 05   | soon| 
-| 06   | soon |  
-| 07  | soon |  
-| 08  | soon | 
-| 09  | soon | 
-| 09  | soon | 
-| 10  | soon |  
+| 01 | <a href="">soon!</a> | 
+| 02 | <a href="">soon!</a> | 
+| 03 | <a href="">soon!</a> | 
+| 04 | <a href="">soon!</a> | 
+| 05 | <a href="">soon!</a>| 
+| 06 | <a href="">soon!</a> |  
+| 07 | <a href="">soon!</a> |  
+| 08 | <a href="">soon!</a> | 
+| 09 | <a href="">soon!</a> | 
+| 09 | <a href="">soon!</a> | 
+| 10 | <a href="">soon!</a> |  
