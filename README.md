@@ -28,3 +28,5 @@
 | 09 | <a href="">soon!</a> | 
 | 09 | <a href="">soon!</a> | 
 | 10 | <a href="">soon!</a> |  
+##
+⍤⃝🍓 Following: <a href="">Lessons</a>
